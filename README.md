@@ -1,3 +1,3 @@
 # coding-experience
 Rupesh kumar
-wrter-god
+writer-god
